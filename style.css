@@ -1,0 +1,18 @@
+/* External CSS */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #0056b3;
+}
+
+table {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+}
